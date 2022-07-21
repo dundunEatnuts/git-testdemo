@@ -5,10 +5,10 @@ package com.chw.git.test;
  * @create 2022-07-22 6:29
  */
 public class GitTest {
-
     public static void main(String[] args) {
         System.out.println("hello,git");
         System.out.println("hello,git");
+        System.out.println("hello,git");
+        System.out.println("hello,git");
     }
-
 }
